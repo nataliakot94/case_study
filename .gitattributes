@@ -1,3 +1,7 @@
 *.md linguist-language=SQL
 *.md linguist-documentation=false
 *.md linguist-detectable=true
+
+*.ipynb linguist-language=Python
+*.ipynb linguist-documentation=false
+*.ipynb linguist-detectable=true
